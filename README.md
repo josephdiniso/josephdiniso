@@ -1,7 +1,7 @@
 ## Hello I'm Joseph DiNiso!
-### Software Engineer graduating in Spring 2022 looking for entry level positions
+### Software engineer with a degree in Computer Engineering from Virginia Tech (Graduated B.S. Spring 2022)
 - I'm interested in software engineering, specifically cloud software development, machine learning, data science, and computer vision.
-- I'm currently in my Senior year at Virginia Tech, graduating in the Spring of 2022.
+- I graduated summa cum laude from Virginia Tech.
 - I have extensive experience in Python and C++, as well as most of the popular Python data science and machine learning libraries.
 - I'm looking for software engineering roles in the United States and am willing to relocate.
 
